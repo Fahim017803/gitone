@@ -1,6 +1,6 @@
 two
+<<<<<<< HEAD
 2
 this is 2
 ata ki 2?
 who are you?
-
